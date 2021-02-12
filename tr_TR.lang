@@ -1,0 +1,1922 @@
+language: Turkish
+native: Türkçe
+maintainer: Mert Cenk Kılıç <mertcenkk@ya.ru>
+#
+# ./glwskins/flat/ctxmenu/default_details.view
+#
+id: Bookmark
+msg: Yer imleri
+
+id: Bookmarked
+msg: Yer imlerine eklendi
+
+id: Copy to clipboard
+# Missing translation
+msg: 
+
+id: Copy to location...
+# Missing translation
+msg: 
+
+id: Delete
+msg: Sil
+
+id: Queue
+msg: Kuyruk
+
+#
+# ./glwskins/flat/ctxmenu/plugin_details.view
+#
+id: Author:
+msg: Yazar:
+
+id: Available version:
+msg: Mevcut versiyon:
+
+id: Changelog
+# Missing translation
+msg: 
+
+id: Install
+msg: Kur
+
+id: Installed version:
+msg: Kurulan versiyon:
+
+id: Status:
+msg: Durum:
+
+id: Uninstall
+msg: Kaldır
+
+id: Upgrade
+msg: Yükselt
+
+#
+# ./glwskins/flat/ctxmenu/video_details.view
+#
+id: Continue from %s
+msg: %s'dan devam et
+
+id: Mark as seen
+msg: Görüldü olarak işaretle
+
+id: Mark as unseen
+msg: Görülmedi olarak işaretle
+
+id: Play from beginning
+msg: Baştan oynat
+
+id: Play until end of list
+msg: Listenin sonuna kadar oynat
+
+id: Video Cast
+# Missing translation
+msg: 
+
+#
+# ./glwskins/flat/items/details/video.view
+#
+id: Season %d - Episode %d
+# Missing translation
+msg: 
+
+id: Seen %d times, %s
+# Missing plural translation for 'Seen %d times, %s' and 'Seen %d time, %s'
+msg[0]: 
+msg[1]: 
+
+#
+# ./glwskins/flat/items/list/add.view
+#
+id: Add new entry
+msg: Yeni giriş ekle
+
+#
+# ./glwskins/flat/items/list/bool.view
+#
+id: Off
+msg: Kapalı
+
+id: On
+msg: Açık
+
+#
+# ./glwskins/flat/items/list/font.view
+#
+id: Condensed
+msg: Yoğun
+
+id: Subtitles
+msg: Altyazılar
+
+id: User interface
+msg: Kullanıcı arayüzü
+
+#
+# ./glwskins/flat/items/list/tvepisode.view
+#
+id: Episode %d - %s
+# Missing translation
+msg: 
+
+#
+# ./glwskins/flat/loading.view
+#
+id: %d kb/s
+msg: %d kb/s
+
+id: Bitrate:
+msg: Bitrate:
+
+#
+# ./glwskins/flat/log.view
+#
+id: System log
+msg: Systemlog
+
+#
+# ./glwskins/flat/mediainfo.view
+#
+id: A/V diff
+msg: A/V farkı
+
+id: Audio bitrate
+msg: Ses bitrate
+
+id: Audio codec
+msg: Ses codec
+
+id: Audio packets
+msg: Ses paketleri
+
+id: Buffer usage
+msg: Buffer kullanımı
+
+id: No media loaded
+msg: Medya yüklenmedi
+
+id: Remaining buffer
+msg: Kalan buffer
+
+id: Source
+msg: Kaynak
+
+id: Video bitrate
+msg: Video bitrate
+
+id: Video codec
+msg: Video codec
+
+id: Video framerate
+msg: Video kare hızı
+
+id: Video packets
+msg: Video paketleri
+
+#
+# ./glwskins/flat/menu/sidebar.view
+#
+id: Bookmark page
+msg: Yer imleri sayfası
+
+id: Page settings
+msg: Sayfa ayarları
+
+id: Paste
+# Missing translation
+msg: 
+
+id: Reload page
+msg: Sayfayı yeniden yükle
+
+id: Remove bookmark
+msg: Yer imini kaldır
+
+id: Settings
+msg: Ayarlar
+
+#
+# ./glwskins/flat/menu/sidebar_common.view
+#
+id: Activate sleep timer
+msg: Uyku zamanlayıcısını etkinleştir
+
+id: Disable sleep timer
+msg: Uyku zamanlayıcısını kapat
+
+id: Exit %s
+msg: %s çık
+
+id: Hide media info
+msg: Medya bilgisini gizle
+
+id: Hide system info
+msg: Sistem bilgisini gizle
+
+id: Master volume
+msg: Ana ses
+
+id: Show media info
+msg: Medya bilgisini göster
+
+id: Show system info
+msg: Sistem bilgisini göster
+
+id: Suspend
+msg: Durdur 
+
+id: Time until sleep
+msg: Uykuya kalan süre
+
+id: View log
+msg: Logları göster
+
+id: dB
+msg: dB
+
+id: min
+msg: min
+
+#
+# ./glwskins/flat/osd/osd_audio.view
+#
+id: Audio
+msg: Ses
+
+#
+# ./glwskins/flat/osd/osd_main.view
+#
+id: Audio settings
+msg: Ses ayarları
+
+id: Subtitle settings
+msg: Altyazı ayarları
+
+id: Video settings
+msg: Video ayarları
+
+#
+# ./glwskins/flat/osk.view
+#
+id: Default
+msg: Varsayılan
+
+id: Keyboard layout:
+msg: Klavye düzeni
+
+#
+# ./glwskins/flat/pages/directory.view
+#
+id: Album
+msg: Album
+
+id: Artist
+msg: Sanatçı
+
+id: Custom
+msg: Özel
+
+id: Grid
+msg: Izgara
+
+id: List
+msg: Liste 
+
+id: Page layout
+msg: Sayfa düzeni
+
+id: Search results
+msg: Arama sonuçları
+
+id: TV Season
+# Missing translation
+msg: 
+
+#
+# ./glwskins/flat/pages/empty.view
+#
+id: No contents
+# Missing translation
+msg: 
+
+#
+# ./glwskins/flat/pages/home.view
+#
+id: Dismiss
+msg: Reddet
+
+id: Home
+# Missing translation
+msg: 
+
+#
+# ./glwskins/flat/pages/openerror.view
+#
+id: Unable to open resource
+msg: Kaynak açılamıyor
+
+#
+# ./glwskins/flat/pages/playqueue.view
+#
+id: Playqueue
+msg: Oynatma kuyruğu
+
+#
+# ./glwskins/flat/pages/searchresults.view
+#
+id: Show more
+msg: Daha fazla göster
+
+id: %d hits
+# Missing plural translation for '%d hits' and '%d hit'
+msg[0]: %d Hit
+msg[1]: %d Hit
+
+#
+# ./glwskins/flat/pages/slideshow.view
+#
+id: Interval: %ds
+# Missing translation
+msg: 
+
+id: Play/Pause
+# Missing translation
+msg: 
+
+id: Stop
+# Missing translation
+msg: 
+
+#
+# ./glwskins/flat/pages/stpp.view
+#
+id: Remote control - %s
+# Missing translation
+msg: 
+
+id: Remote controlling %s
+# Missing translation
+msg: 
+
+#
+# ./glwskins/flat/pages/stppstpp.view
+#
+id: Nested remote controll is not supported
+# Missing translation
+msg: 
+
+id: Remote control
+# Missing translation
+msg: 
+
+#
+# ./glwskins/flat/pages/stppvideo.view
+#
+id: Audio tracks
+msg: Ses trackleri
+
+id: Audio volume adjustment: %d dB
+msg: Ses yükseklik ayarı: %d dB
+
+id: CPU is too slow to decode this video
+msg: İşlemci bu videoyu oynatmak için çok yavaş
+
+id: Next
+# Missing translation
+msg: 
+
+id: Previous
+# Missing translation
+msg: 
+
+#
+# ./glwskins/flat/pages/tvseason.view
+#
+id: Season %d
+# Missing translation
+msg: 
+
+#
+# ./glwskins/flat/pages/upgrade.view
+#
+id: %s is up to date
+msg: %s güncel
+
+id: An error occured during download
+msg: İndirme sırasında bir hata oluştu
+
+id: Changelog for %s releases
+msg: %s için değişim kaydı 
+
+id: Check for updates now
+msg: Güncellemeleri hemen kontrol et
+
+id: Checking for updates
+msg: Güncellemeler kontrol ediliyor
+
+id: Current version:
+msg: Şimdiki Version:
+
+id: Download and install
+msg: İndir ve kur
+
+id: Downloading %s
+msg: %s indiriliyor
+
+id: New version %s is available for download
+msg: Yeni Version %s mevcut
+
+id: No upgrade available
+msg: Yükseltme mevcut değil
+
+id: Retry
+# Missing translation
+msg: 
+
+id: Stable
+msg: Kararlı
+
+id: Testing
+msg: Test
+
+id: Unable to query for new version
+msg: Yeni versiyon kuyruğa alınamıyor
+
+#
+# ./glwskins/flat/popups/auth.view
+#
+id: Domain
+msg: Domain
+
+id: Password
+msg: Şifre
+
+id: Remember me
+msg: Beni hatırla
+
+id: Username
+msg: Kullanıcı adı
+
+#
+# ./glwskins/flat/popups/common.view
+#
+id: Cancel
+msg: Vazgeç
+
+id: Ok
+msg: Tamam
+
+#
+# ./glwskins/flat/popups/filepicker.view
+#
+id: Back
+# Missing translation
+msg: 
+
+id: Close
+# Missing translation
+msg: 
+
+id: Folder select mode, press right to open subfolder
+# Missing translation
+msg: 
+
+#
+# ./glwskins/flat/popups/resume.view
+#
+id: No, Start over
+msg: Hayır, baştan başlat
+
+id: Resume from %s
+msg: %s 'dan devam et
+
+id: Yes
+msg: Evet 
+
+#
+# ./glwskins/flat/popups/textDialog.view
+#
+id: OK
+msg: OK
+
+#
+# ./glwskins/flat/sysinfo.view
+#
+id: CPU Temp
+msg: İşlemci Sıcaklığı
+
+id: Connected
+msg: Bağlandı
+
+id: Fragmentation
+msg: Parçalanma
+
+id: Framerate
+msg: Kare hızı
+
+id: GPU Temp
+msg: GPU Sıcaklığı
+
+id: HDD Avail
+msg: HDD Mevcut
+
+id: IP Address
+msg: IP Adresi
+
+id: Inactive memory
+msg: Pasif hafıza
+
+id: Memory usage
+msg: Hafıza kullanımı
+
+id: Network
+msg: Ağ
+
+id: Not available
+msg: Mevcut değil
+
+id: System Free
+msg: Mevcut
+
+id: System Total
+msg: Toplam sistem
+
+id: VM Page In/Out
+# Missing translation
+msg: 
+
+id: Version
+msg: Version
+
+#
+# ./glwskins/flat/universe.view
+#
+id: Audio muted
+msg: Susturuldu
+
+id: Copying %d files
+# Missing translation
+msg: 
+
+id: Master volume: %d dB
+msg: Ana ses: %d dB
+
+id: Overscan adjustment\nPosition border at screen edges
+# Missing translation
+msg: 
+
+#
+# ./src/api/stpp.c
+#
+id: Allow remote control
+# Missing translation
+msg: 
+
+id: Device not available
+# Missing translation
+msg: 
+
+id: Movians for remote control
+# Missing translation
+msg: 
+
+#
+# ./src/api/tmdb.c
+#
+id: Language (ISO 639-1 code)
+msg: Dil (ISO 639-1 Code)
+
+id: Use original title
+msg: Orijinal başlığı kullan
+
+#
+# ./src/arch/android/android.c
+#
+id: Android Storage
+msg: Android Depolama
+
+#
+# ./src/arch/linux/pulseaudio.c
+#
+id: Unable to initialize audio system %s -- %s
+msg: %s -- %s ses sistemi başlatılamadı
+
+#
+# ./src/arch/ps3/ps3_main.c
+#
+id: System is low on memory (%d kB RAM available)
+msg: Sistem tükeniyor(%d kB RAM mevcut)
+
+#
+# ./src/arch/ps3/ps3_vdec.c
+#
+id: Cell-h264: %d Ref-frames for %d content is incompatible with PS3 HW decoder. Disabling acceleration
+msg: Cell-h264: %d Ref-Frames için %d içeriği PS3 HW Kod çözücü ile uyumlu değil. Hızlandırma devredışı bırakılıyor.
+
+id: Cell-h264: Broken headers, Disabling acceleration
+msg: Cell-h264: Bozuk başlıklar, Hızlandırma devredışı bırakılıyor.
+
+id: Cell-h264: Forcing level 4.2 for content in level %d.%d. This may break video playback.
+msg: Cell-h264: %d.%d seviyesindeki içerik için 4.2 seviyesi zorlanıyor. Bu banttan oynatmayı bozabilir.
+
+id: Unable to accelerate %s, library not loaded.
+msg: %s hızlandırılamıyor, kütüphane yüklenmedi.
+
+id: Unable to open Cell codec. Error 0x%x
+msg: Cell codec açılamıyor. Hata 0x%x.
+
+id: Unable to open Cell codec. Unable to allocate %d bytes of RAM
+msg: Cell codec açılamıyor. RAM'den %d byte ayrılamadı.
+
+id: Unable to query Cell codec. Error 0x%x
+msg: Cell codec kuyruğa alınamadı. Hata 0x%x
+
+#
+# ./src/arch/rpi/rpi_audio.c
+#
+id: 8 Channel PCM
+msg: 8 Kanal PCM
+
+id: AC3 Pass-Through
+msg: AC3 Pass-Through
+
+id: Analog
+msg: Analog
+
+id: Audio output port
+msg: Ses çıkış portu
+
+id: Autodetect
+msg: Otomatik tanıma
+
+id: DTS Pass-Through
+msg: DTS Pass-Through
+
+id: HDMI
+msg: HDMI
+
+#
+# ./src/arch/rpi/rpi_tv.c
+#
+id: Match display and content framerate
+# Missing translation
+msg: 
+
+#
+# ./src/audio2/audio.c
+#
+id: Audio delay
+msg: Ses gecikmesi
+
+id: Audio gain
+msg: Ses kazancı
+
+id: Setup audio output
+msg: Ses çıkış kurulumu
+
+id: Video playback
+msg: Video oynatma
+
+#
+# ./src/audio2/audio_test.c
+#
+id: 440Hz sinewave -12dB
+msg: 440Hz sinewave -12dB
+
+id: Audio test
+msg: Ses testi
+
+id: Center
+msg: Merkez
+
+id: Front Left
+msg: Sol ön
+
+id: Front Right
+msg: Sağ ön
+
+id: LFE
+msg: LFE
+
+id: Pink noise
+msg: Pembe gürültü
+
+id: Play test signal
+msg: Test sinyali çal
+
+id: Rear Left
+msg: Sol arka
+
+id: Rear Right
+msg: Sağ arka
+
+id: Speaker position
+msg: Hoparlör pozisyonu
+
+id: Surround Left
+msg: Surround Sol
+
+id: Surround Right
+msg: Surround Sağ
+
+id: Test signal type
+msg: Test Sinyal tipi
+
+#
+# ./src/backend/bittorrent/bt_backend.c
+#
+id: No files in torrent
+msg: Torrentte dosya yok
+
+id: Unable to open torrent: %s
+msg: Torrent açılamadı: %s
+
+#
+# ./src/backend/bittorrent/diskio.c
+#
+id: Cached torrents use %d MB out of allowed %d MB. Total free space on volume: %d MB
+msg: Önbelleklenen torrentler %d MB den %d MB kadar kullandı. Diskteki toplam boş alan: %d MB
+
+#
+# ./src/backend/bittorrent/fa_torrent.c
+#
+id: Connected peers
+msg: Uçlara bağlandı
+
+id: Known peers
+msg: Bilinen uçlar
+
+id: Receiving from
+msg: dan alınıyor
+
+id: Torrent leechers
+msg: Torrent leechers
+
+id: Torrent seeders
+msg: Torrent seeders
+
+#
+# ./src/backend/bittorrent/torrent_settings.c
+#
+id: BitTorrent
+msg: BitTorrent
+
+id: Clear cache
+msg: Önbelleği temizle
+
+id: Enable bittorrent
+msg: Bittorrenti etkinleştir
+
+id: Max upload speed
+# Missing translation
+msg: 
+
+id: Max usage of free space for caching torrents
+msg: Torrent önbelleklemek için maksimum boş alan kullanımı
+
+id: Status
+msg: Durum
+
+id: Torrent cache path
+msg: Torrent önbellek yolu
+
+#
+# ./src/backend/dvd/dvd.c
+#
+id: DVD
+msg: DVD
+
+id: DVD read error, restarting disc
+msg: DVD okuma hatası, disk yeniden başlatılıyor
+
+#
+# ./src/backend/hls/hls.c
+#
+id: Primary
+msg: Birincil
+
+id: Supplementary
+msg: Tamamlayıcı
+
+#
+# ./src/backend/htsp/htsp.c
+#
+id: Channels
+# Missing translation
+msg: 
+
+id: Invalid HTSP URL
+msg: Geçersiz HTSP URL
+
+id: No such channel
+# Missing translation
+msg: 
+
+id: Recorded shows
+# Missing translation
+msg: 
+
+id: Recorder
+# Missing translation
+msg: 
+
+#
+# ./src/backend/playlist.c
+#
+id: Unable to open playlist
+# Missing translation
+msg: 
+
+#
+# ./src/backend/search.c
+#
+id: Search
+msg: Arama
+
+id: Search result for: %s
+msg: %s : için arama sonuçları
+
+#
+# ./src/backend/slideshow/slideshow.c
+#
+id: 3 seconds
+msg: 3 saniye
+
+id: 5 seconds
+msg: 5 saniye
+
+id: 7 seconds
+msg: 7 saniye
+
+id: Slideshow speed
+msg: Slideshow hızı
+
+#
+# ./src/blobcache_file.c
+#
+id: Cache cleared
+msg: Önbellek temizlendi
+
+id: Clear cached files
+msg: Önbelleklenen dosyaları temizle
+
+#
+# ./src/fileaccess/fa_backend.c
+#
+id: Can't handle content type %d
+msg: %d içerik tipi kullanılamıyor
+
+id: Checking file contents
+msg: Dosya içerikleri kontrol ediliyor
+
+id: Invalid URL from redirect
+# Missing translation
+msg: 
+
+id: Unable to open file: %s
+msg: % : açılamıyor
+
+#
+# ./src/fileaccess/fa_filepicker.c
+#
+id: Select a file
+# Missing translation
+msg: 
+
+#
+# ./src/fileaccess/fa_locatedb.c
+#
+id: Search using Unix locatedb
+msg: Unix locatedb kullanarak ara
+
+#
+# ./src/fileaccess/fa_scanner.c
+#
+id: Deleted %s
+msg: %s silindi
+
+id: Filename
+msg: Dosya adı
+
+id: Include in library
+# Missing translation
+msg: 
+
+id: Newest first
+msg: En yeni önce
+
+id: Oldest first
+msg: En eski önce
+
+id: Show only supported files
+msg: Sadece desteklenen dosyaları göster
+
+id: Sort folders first
+msg: Önce klasörleri sırala
+
+id: Sort on
+msg: Sırala
+
+id: Unable to delete %s\n%s
+msg: %s\n%s silinemiyor
+
+#
+# ./src/fileaccess/fa_spotlight.c
+#
+id: Search using spotlight
+msg: Spot ışığı kullanarak ara
+
+#
+# ./src/fileaccess/fileaccess.c
+#
+id: Are you sure you want to delete:
+msg: Silmek istediğinize emin misiniz:
+
+id: Browse archives as folders
+msg: Arşivleri klasör olarak aç
+
+id: Enable file deletion from item menu
+msg: Öğe menüsünden dosya silmeyi etkinleştir
+
+id: Show filename extensions
+msg: Dosya adı uzantılarını göster
+
+id: Store per-file settings in filesystem
+msg: Her dosya için ayarları dosya sisteminde sakla
+
+id: %d archive parts
+msg[0]: %d arşiv bölümü
+msg[1]: %d arşiv bölümü
+
+id: %d directories
+msg[0]: %d dizinleri
+msg[1]: %d dizinleri
+
+id: %d files
+msg[0]: %d dosyaları
+msg[1]: %d dosyaları
+
+#
+# ./src/fileaccess/smb/fa_nativesmb.c
+#
+id: Access denied
+msg: Erişim reddedildi
+
+id: Account restricted
+msg: Hesap kısıtlandı
+
+id: Bad network share name
+msg: Yanlış paylaşım adı
+
+id: Logon failure
+msg: Giriş hatası
+
+id: Object name not found
+msg: Nesne adı bulunamadı
+
+#
+# ./src/i18n.c
+#
+id: 12 Hour
+msg: 12 Saat
+
+id: 24 Hour
+msg: 24 Saat
+
+id: Default character set
+msg: Varsayılan karakter seti
+
+id: Ignore 'The' at beginning of words when sorting
+msg: Sıralarken kelime başlarındaki "The" ekini görmezden gel
+
+id: Language
+msg: Dil
+
+id: Language codes should be configured as three character ISO codes, example (eng, swe, fra)
+msg: Dil kodları ISO kodlarına göre ayarlanmalı Örn: tur,eng,deu
+
+id: Languages
+msg: Diller
+
+id: Preferred languages
+msg: Tercih edilen diller
+
+id: Primary audio language code
+msg: Birincil ses dil kodu
+
+id: Primary subtitle language code
+msg: Birincil altyazı dil kodu
+
+id: Secondary audio language code
+msg: İkincil ses dil kodu
+
+id: Secondary subtitle language code
+msg: İkincil altyazı dil kodu
+
+id: System default
+msg: Sistem varsayılanı
+
+id: Tertiary audio language code
+msg: Bölgesel ses dil kodu
+
+id: Tertiary subtitle language code
+msg: Bölgesel altyazı dil kodu
+
+id: Time format
+msg: Saat formatı
+
+id: Timezone
+msg: Saat dilimi
+
+#
+# ./src/ipc/libcec.c
+#
+id: Longpress SELECT for item menu
+# Missing translation
+msg: 
+
+id: Switch TV input source
+# Missing translation
+msg: 
+
+id: Use STOP key for combo input
+# Missing translation
+msg: 
+
+#
+# ./src/keyring.c
+#
+id: Forget remembered passwords
+msg: Hatırlanan şifreleri unut
+
+id: Rembered passwords erased
+msg: Hatırlanan şifreler silindi
+
+#
+# ./src/media/media_settings.c
+#
+id: Align on video frame
+# Missing translation
+msg: 
+
+id: Audio volume
+msg: Ses yüksekliği
+
+id: Delay
+# Missing translation
+msg: 
+
+id: Go to standby after video ends
+msg: Video bitince standby'a geç
+
+id: Horizontal pan
+msg: Yatay kaydırma
+
+id: Horizontal position
+# Missing translation
+msg: 
+
+id: Horizontal scale
+msg: Yatay ölçek
+
+id: Reset defaults for folder '%s'
+msg: '%s' klasörü için varsayılana sıfırla
+
+id: Save as defaults for folder '%s'
+msg: '%s' klasörü için varsayılan olarak kaydet
+
+id: Save as global default
+msg: Global varsayılan olarak kaydet
+
+id: Scaling
+# Missing translation
+msg: 
+
+id: Stretch video to fullscreen
+msg: Videoyu tam ekrana ger
+
+id: Stretch video to widescreen
+msg: Videoyu geniş ekrana ger
+
+id: Vertical pan
+msg: Dikey kaydırma
+
+id: Vertical position
+# Missing translation
+msg: 
+
+id: Vertical scale
+msg: Dikey ölçek
+
+id: Video frame interpolation
+msg: Video kare interpolasyonu
+
+id: Video zoom
+msg: Video zoom
+
+#
+# ./src/metadata/browsemdb.c
+#
+id: Indexing
+msg: İndexleniyor
+
+#
+# ./src/metadata/decoration.c
+#
+id: Automatic
+msg: Otomatik
+
+id: Erase all playback info
+msg: Tüm playback bilgisini sil
+
+id: Manual
+msg: Elle
+
+id: Mark all as seen
+msg: Hepsini görüldü işaretle
+
+id: Mark all as unseen
+msg: Hepsini görülmedi işaretle
+
+id: Metadata mode
+msg: Matadata modu
+
+#
+# ./src/metadata/metadata.c
+#
+id: Embedded in file
+msg: Dosya içinde gömülü
+
+id: Track %d
+msg: Track %d
+
+#
+# ./src/metadata/metadata_sources.c
+#
+id: Enabled
+msg: Etkin
+
+id: Metadata
+msg: Metadata
+
+id: Metadata configuration and provider settings
+msg: Metadata konfigürasyon ve sağlayıcı ayarları
+
+id: Providers for Music
+msg: Müzik için sağlayıcılar
+
+id: Providers for Video
+msg: Video için sağlayıcılar
+
+#
+# ./src/metadata/metadb.c
+#
+id: %d items deleted
+msg: %d öğe silindi
+
+id: Clear all metadata
+msg: Tüm metadatayı temizle
+
+id: Clearing all metadata means losing <b>all</b> metadata cached from external sources such as themoviedb.org, etc\n\nInformation about resume-points, playcount, etc will be saved.\nAre you sure you proceed?
+# Missing translation
+msg: 
+
+#
+# ./src/metadata/mlp.c
+#
+id: Custom search query
+msg: Özel arama kuyruğu
+
+id: Custom title
+msg: Özel başlık
+
+id: IMDb ID
+msg: IMDb ID
+
+id: Metadata loaded from <b>%s</b> based on %s
+# Missing translation
+msg: 
+
+id: Metadata source
+msg: Metadata kaynağı
+
+id: Movie
+msg: Film
+
+id: Movie title
+msg: Film başlığı
+
+id: No data found
+msg: Veri bulunamadı
+
+id: None
+msg: Yok
+
+id: Refresh metadata
+msg: Metadatayı yenile
+
+id: Title, Season, Episode
+msg: Başlık, Sezon, Bölüm
+
+id: custom IMDb ID
+msg: özel IMDb ID
+
+id: custom query
+msg: özel kuyruk
+
+id: filename
+msg: dosya adı
+
+id: filename as TV episode
+msg: TV bölümü olarak dosya adı
+
+id: folder name
+msg: klasör adı
+
+#
+# ./src/navigator.c
+#
+id: Add and remove items on homepage
+msg: Anasayfadaki öğeleri ekle ve kadlır
+
+id: Added %s to home page
+msg: %s anasayfaya eklendi
+
+id: Added new bookmark: %s
+msg: Yeni yer imi eklendi : %s
+
+id: Bookmarks
+msg: Yer imleri
+
+id: Icon
+msg: İkon
+
+id: Music
+msg: Müzik
+
+id: No handler for URL
+msg: URL için işleyici yok
+
+id: Other
+msg: Diğer
+
+id: Photos
+msg: Fotoğraflar
+
+id: Removed %s from homepage
+msg: %s anasayfadan kaldırıldı
+
+id: Removed bookmark: %s
+msg: Yer imi kaldırıldı: %s
+
+id: TV
+msg: TV
+
+id: Title
+msg: Başlık
+
+id: Type
+msg: Tip
+
+id: URL
+msg: URL
+
+id: Video
+msg: Video
+
+#
+# ./src/networking/connman.c
+#
+id: Enable Wi-Fi
+msg: Wi-Fi etkinleştir
+
+id: Network connections
+msg: Ağ bağlantıları
+
+#
+# ./src/networking/ftp_server.c
+#
+id: Enable FTP server
+msg: FTP sunucuyu etkinleştir
+
+id: FTP server
+msg: FTP Sunucu
+
+id: Server TCP port
+msg: Sunucu TCP portu
+
+#
+# ./src/networking/http_server.c
+#
+id: Power Off
+# Missing translation
+msg: 
+
+id: Rebooting
+# Missing translation
+msg: 
+
+id: Restarting
+# Missing translation
+msg: 
+
+id: Standby
+msg: Standby
+
+#
+# ./src/notifications.c
+#
+id: Show news on home screen
+# Missing translation
+msg: 
+
+#
+# ./src/plugins.c
+#
+id: Alternate plugin Repository URL
+msg: Alternatif eklenti depo URLsi
+
+id: Audio decoders
+# Missing translation
+msg: 
+
+id: Auto install plugins on demand
+# Missing translation
+msg: 
+
+id: Auto installed plugin %s (Version %s)
+# Missing translation
+msg: 
+
+id: Automatically upgrade plugins
+msg: Eklentileri otomatik yükselt
+
+id: Available plugins
+msg: Mevcut eklentiler
+
+id: Background
+msg: Arkaplan
+
+id: Beta testing passwords
+msg: Beta test şifreleri
+
+id: Browse available plugins
+msg: Mevcut eklentileri göster
+
+id: Browsing
+msg: Açılıyor
+
+id: Cloud services
+msg: Bulut servisleri
+
+id: Corrupt plugin bundle
+msg: Bozuk eklenti paketi
+
+id: Custom backgrounds can now be set in Settings -> Look and Feel
+# Missing translation
+msg: 
+
+id: Disk write error
+msg: Disk yazma hatası
+
+id: Downloading
+msg: İndiriliyor
+
+id: File open error
+msg: Dosya açma hatası
+
+id: Home page
+msg: Anasayfa
+
+id: Images
+msg: Resimler
+
+id: Installed
+# Missing translation
+msg: 
+
+id: Installed plugins
+msg: Kurulan eklentiler
+
+id: Installed version higher than available
+msg: Kurulan versiyon mevcuttan daha yüksek
+
+id: Installing
+msg: Kuruluyor
+
+id: List of albums
+msg: Albüm listesi
+
+id: Loading screen
+msg: Yükleme ekranı
+
+id: Movies
+msg: Filmler
+
+id: Music streaming
+msg: Müzik yayını
+
+id: Not installable
+msg: Kurulabilir değil
+
+id: Not installed
+msg: Kurulmadı
+
+id: Not upgradable
+msg: Yükseltilebilir değil
+
+id: On Screen Keyboards
+msg: Ekran Klayveleri
+
+id: Online TV
+msg: Online TV
+
+id: Plugin %s %s has been uninstalled because it may cause problems.\nYou may try reinstalling a different version manually.
+msg: %s %s eklenti kaldırıldı çünkü hatalara sebep olabilir.\nBaşka bir versiyonu elle tekrar kurmayı deneyebilirsiniz.
+
+id: Plugin %s has been uninstalled - %s
+msg: Eklenti %s kaldırıldı - %s
+
+id: Plugin categories
+msg: Eklenti kategorileri
+
+id: Plugins
+msg: Eklentiler
+
+id: Preferred views from plugins
+msg: Eklentilerden tercih edilen görünümler
+
+id: Screen saver
+msg: Ekran koruyucu
+
+id: TV channels
+msg: TV kanalları
+
+id: Unable to load plugin.json: %s
+msg: Eklenti.json yüklenemiyor: %s
+
+id: Unable to load plugin.json: Malformed JSON
+msg: Eklenti.json yüklenemiyor: Hatalı JSON
+
+id: Uncategorized
+msg: Kategorisiz
+
+id: Up to date
+msg: Güncel
+
+id: Upgradable
+msg: Yükseltilebilir
+
+id: Upgraded plugin %s to version %s
+msg: Eklenti  %s 'dan %s 'a yükseltildi
+
+id: User interface extensions
+msg: Kullanıcı arayüz eklentileri
+
+id: Version %s is no longer compatible with Movian
+msg: Versiyon %s artık Movian ile uyumlu değil
+
+id: Video streaming
+msg: Video yayını
+
+#
+# ./src/prop/prop_proxy.c
+#
+id: Remote exited
+# Missing translation
+msg: 
+
+#
+# ./src/runcontrol.c
+#
+id: Automatic standby
+msg: Otomatik standby
+
+id: Enable SSH server
+msg: SSH sunucuyu etkinleştir
+
+id: Logout
+msg: Çıkış yap
+
+id: Open shell
+msg: Çekirdek aç
+
+id: Power off system
+msg: Sistemi kapat
+
+id: Quit
+msg: Çıkış
+
+id: SSH server
+msg: SSH sunucu
+
+#
+# ./src/sd/sd.c
+#
+id: Enabled on home screen
+msg: Ana ekranda etkinleştirildi
+
+id: Name
+msg: Ad
+
+#
+# ./src/service.c
+#
+id: Local network
+msg: Yerel ağ
+
+id: Remove from homepage
+# Missing translation
+msg: 
+
+#
+# ./src/settings.c
+#
+id: About
+msg: Hakkında
+
+id: Applications and installed plugins
+msg: Uygulamalar ve kurulan eklentiler
+
+id: Configure communications with your TV
+msg: TV ile iletişimi ayarla
+
+id: Developer settings
+msg: Geliştirici ayarları
+
+id: Discovered media sources
+msg: Keşfedilen medya kaynakları
+
+id: File browsing
+msg: Dosya gezinme
+
+id: Fonts and user interface styling
+msg: Fontlar ve kullanıcı arayüz stili
+
+id: General
+msg: Genel
+
+id: Global settings
+msg: Global ayarlar
+
+id: Look and feel
+msg: Bak ve hisset
+
+id: Network services, etc
+msg: Ağ servisleri, vs
+
+id: Network settings
+msg: Ağ ayarları
+
+id: Reset
+# Missing translation
+msg: 
+
+id: Settings useful for developers
+msg: Geliştiriciler için kullanışlı ayarlar
+
+id: Software upgrade
+msg: Yazılım yükseltme
+
+id: Starting and stopping
+msg: Başlatma ve durdurma
+
+id: System name
+msg: Sistem adı
+
+id: System related settings
+msg: Sistemle ilgili ayarlar
+
+id: TV Control
+# Missing translation
+msg: 
+
+#
+# ./src/subtitles/subtitles.c
+#
+id: Any subtitle in central folder
+msg: Merkezi klasördeki tüm altyazılar
+
+id: Any subtitle in same folder as video
+msg: Video ile aynı klasördeki tüm altyazılar
+
+id: Auto
+msg: Oto
+
+id: Automatically select from this source
+msg: Bu kaynaktan otomatik olarak seç
+
+id: Central subtitle folder
+msg: Merkezi altyazı klasörü
+
+id: Color
+msg: Renk
+
+id: External file
+msg: Dış dosya
+
+id: Force subtitles to reside on video frame
+msg: Altyazıları video çerçevesine oturmaya zorla
+
+id: Generic settings for video subtitles
+msg: Video altyazıları için genel ayarlar
+
+id: Ignore embedded styling
+msg: Gömülü stili görmezden gel
+
+id: Left
+msg: Sol
+
+id: Outline color
+msg: Anahat rengi
+
+id: Outline size
+msg: Anahat boyutu
+
+id: Path to central folder
+msg: Merkezi klasöre yol
+
+id: Providers for Subtitles
+msg: Altyazı için sağlayıcılar
+
+id: Right
+msg: Sağ
+
+id: Shadow color
+msg: Gölge rengi
+
+id: Shadow offset
+msg: Gölge ofset
+
+id: Subtitle horizontal displacement
+msg: Altyazı yatay yer değiştirme
+
+id: Subtitle position
+msg: Altyazı pozisyonu
+
+id: Subtitle size
+msg: Altyazı boyutu
+
+id: Subtitle size and positioning
+msg: Altyazı boyutu ve pozisyonu
+
+id: Subtitle vertical displacement
+msg: Altyazı dikey yer değiştirme
+
+id: Subtitles embedded in video file
+msg: Video içinde gömülü altyazılar
+
+id: Subtitles with matching filename in central folder
+msg: Merkezi klasörde dosya adı ile eşleşen altyazılar
+
+id: Subtitles with matching filename in same folder as video
+msg: Video olarak aynı klasördeki dosya adı ile eşleşen altyazılar 
+
+#
+# ./src/text/fontstash.c
+#
+id: Defaults
+msg: Varsayılanlar
+
+id: Fonts
+msg: Fontlar
+
+id: Installed fonts
+msg: Kurulan fontlar
+
+id: Narrow text
+msg: Dar metin
+
+id: Reset main font to default
+msg: Ana fontu varsayılana döndür
+
+id: Reset narrow font to default
+msg: Dar metni varsayılana döndür
+
+id: Reset subtitle font to default
+msg: Altyazı fontunu varsayılana döndür
+
+id: Unable to install font: %s
+msg: Font kurulamıyor : %s 
+
+id: Use font %s for
+msg: Fontu %s için kullan 
+
+#
+# ./src/ui/clipboard.c
+#
+id: Copy failed: %s
+# Missing translation
+msg: 
+
+id: Target folder
+# Missing translation
+msg: 
+
+#
+# ./src/ui/glw/glw_ps3.c
+#
+id: Dual-Shock Remote
+# Missing translation
+msg: 
+
+id: No
+msg: Hayır
+
+id: Seek using L2 and R2 button
+msg: L2 ve R2 tuşları ile araştır
+
+id: Yes with Select button
+msg: Select tuşu ile Evet
+
+#
+# ./src/ui/glw/glw_settings.c
+#
+id: Custom background image
+msg: Özel arkaplan resmi
+
+id: Emulate Up/Down buttons with mouse wheel
+msg: Aşağı/Yukarı tuşlarını fare tekerleği ile değiştir
+
+id: Folder for screensaver images
+msg: Ekran koruyucu resimler için klasör
+
+id: Font and icon size
+msg: Font ve ikon boyutu
+
+id: Interface horizontal shrink
+msg: Arayüz yatay küçültme
+
+id: Interface vertical shrink
+msg: Arayüz dikey küçültme
+
+id: Screensaver
+msg: Ekran koruyucu
+
+id: Screensaver delay
+msg: Ekran koruyucu gecikmesi
+
+id: Seconds per image
+msg: Resim başına saniye
+
+id: Use Bing images of the day
+msg: Gün için Bing resimleri kullan
+
+id: Wrap when reaching beginning/end of lists
+msg: Listenin başına/sonuna erişince sarmala
+
+#
+# ./src/ui/glw/glw_view_eval.c
+#
+id: %d days ago
+msg: %d gün önce
+
+id: %d hours ago
+msg: %d saat önce
+
+id: %d minutes ago
+msg: %d dakika önce
+
+id: %d months ago
+msg: %d ay önce
+
+id: %d weeks ago
+msg: %d hafta önce
+
+id: %d years ago
+msg: %d yıl önce
+
+id: Just now
+msg: Az önce
+
+id: One day ago
+msg: Bir gün önce
+
+id: One hour ago
+msg: Bir saat önce
+
+id: One minute ago
+msg: Bir dakika önce
+
+id: One month ago
+msg: Bir ay önce
+
+#
+# ./src/ui/linux/nvidia.c
+#
+id: Auto-switch to this mode
+msg: Bu moda otomatik geç
+
+id: DVI-Video color range
+msg: DVI-Video renk aralığı
+
+id: Switch to this mode now
+msg: Bu moda şimdi geç
+
+id: Video modes
+msg: Video modları
+
+#
+# ./src/upgrade.c
+#
+id: %s version %s is available
+msg: %s versiyon %s mevcut
+
+id: Notify about upgrades
+msg: Yükseltmeleri bildir
+
+id: Open download page
+msg: İndirme sayfasını aç
+
+id: System
+msg: Sistem
+
+id: Upgrade to releases from
+msg: dan sürümlere yükselt
+
+#
+# ./src/upnp/upnp_browse.c
+#
+id: Date (newest first)
+msg: Tarih (en yeni önce)
+
+id: Date (oldest first)
+msg: Tarih (en eski önce)
+
+id: Device not found
+msg: Cihaz bulunamadı
+
+id: Malformed URI after device
+msg: Cihazdan sonra bozuk URI
+
+id: Malformed URI after service
+msg: Servisten sonra bozuk URI
+
+id: Service not found
+msg: Servis bulunamadı
+
+#
+# ./src/video/video_settings.c
+#
+id: Always
+msg: Her zaman 
+
+id: Ask
+msg: Sor
+
+id: Automatically play next video in list
+msg: Listedeki sonraki videoyu otomatik oynat
+
+id: Count video as played when reaching
+msg: Ulaşırken videoyu oynatıldığı gibi say
+
+id: Enable VDPAU
+msg: VDPAU etkinleştir
+
+id: Hardware accelerated decoding
+msg: Donanım hızlandırmalı kod çözme 
+
+id: Maximum resolution for deinterlacer
+msg: Deinterlacer için maksimum çözünürlük
+
+id: Never
+msg: Asla
+
+id: No limit
+msg: Sınır yok
+
+id: Per-file volume
+msg: Dosya başına hacim
+
+id: Preferred VDPAU deinterlacer method
+msg: Tercih edilen VDPAU deinterlacer yöntemi
+
+id: Resume video playback
+msg: Video oynatmaya devam et
+
+id: Show clock during playback
+msg: Oynatma sırasında saati göster
+
+id: Step when seeking backward
+msg: Geriye doğru ararken adım at
+
+id: Step when seeking forward
+msg: İleri doğru ararken adım at
+
+id: Temporal
+msg: Geçici
+
+id: Temporal/Spatial
+msg: Geçici/Mekansal
+
+id: Up / Down during video playback controls
+msg: Yukarı / Aşağı video oynatma sırasında kontroller
+
+id: Video acceleration and display behaviour
+msg: Video hızlandırma ve ekran davranışı
+
+id: Video buffer size
+# Missing translation
+msg: 
+
